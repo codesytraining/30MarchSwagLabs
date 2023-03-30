@@ -13,7 +13,7 @@ public class AboutPage {
 		PageFactory.initElements(driver, this);		
 	}
 	
-	
+	//New code added by Prasad v1
 	
 	//Action Methods
 	public boolean validateTitle(String expectedTitle) {
