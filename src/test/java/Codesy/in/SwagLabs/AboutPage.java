@@ -15,6 +15,8 @@ public class AboutPage {
 	
 	//New code added by Prasad v1
 	
+	//Code by Snehal
+	
 	//Action Methods
 	public boolean validateTitle(String expectedTitle) {
 		
